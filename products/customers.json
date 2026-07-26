@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Company Inc",
+    "address": "Highway 37",
+    "details": null
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "address": "Highway 71",
+    "details": null
+  },
+  {
+    "id": 3,
+    "name": "Peter",
+    "address": "Lowstreet 4",
+    "details": null
+  },
+  {
+    "id": 4,
+    "name": "Amy",
+    "address": "Apple st 652",
+    "details": null
+  },
+  {
+    "id": 5,
+    "name": "Michael",
+    "address": "Canyon 123",
+    "details": null
+  }
+]
